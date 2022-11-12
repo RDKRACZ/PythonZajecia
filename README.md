@@ -17,10 +17,5 @@ ksniezek@protonmail.com
 <h3>Zadanie wielkie litery (wielkie.py)</h3>
 <p>Program ma prosić nas o liczbę następnie wypisać w formie:</p>
 
-  xx  </br>
- x  x </br>
-x    x</br>
-x    x</br>
-x    x</br>
- x  x </br>
-  xx  </br>
+
+![obraz](https://user-images.githubusercontent.com/37062888/201471157-28a90596-d8e0-4b2b-a0b0-65525ad4a29b.png)
