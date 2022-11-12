@@ -14,3 +14,12 @@ ksniezek@protonmail.com
 </ul>
 <h3>Zadanie losowanie liczb (rand.py)</h3>
 <p>Program w którym musimy zgadnąć liczby losowe od 1 do 10. Jeśli zgadniemy program nas o tym poinformuje. Jeśli nie zgadniemy strzelamy dalej. Program ma mieć zastosowaną obsługę wyjątków wraz z funkcjami</p>
+<h3>Zadanie wielkie litery (wielkie.py)</h3>
+<p>Program ma prosić nas o liczbę następnie wypisać w formie:</p>
+<span>"  xx  ",
+      " x  x ",
+      "x    x",
+      "x    x",
+      "x    x",
+      " x  x ",
+      "  xx  "]</span>
