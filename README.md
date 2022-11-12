@@ -12,3 +12,5 @@ ksniezek@protonmail.com
   <li>dzielenie modulo</li>
   <li>potęgowanie</li>
 </ul>
+<h3>Zadanie losowanie liczb (rand.py)</h3>
+<p>Program w którym musimy zgadnąć liczby losowe od 1 do 10. Jeśli zgadniemy program nas o tym poinformuje. Jeśli nie zgadniemy strzelamy dalej. Program ma mieć zastosowaną obsługę wyjątków wraz z funkcjami</p>
