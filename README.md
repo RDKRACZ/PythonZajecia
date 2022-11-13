@@ -21,7 +21,7 @@ ksniezek@protonmail.com
 ![obraz](https://user-images.githubusercontent.com/37062888/201471157-28a90596-d8e0-4b2b-a0b0-65525ad4a29b.png)
 
 
-<h1>ŻYCIE I WALKA</h1>
+<h1>ŻYCIE I WALKA (zycie_i_walka.py)</h1>
 
 Człowiek ma być stworzony za pomocą klasy. Zmienne w klasie to: życie, exp, obrazenia. Funkcje walka, leczenie, wyświetlanie statystyk.
 </br>
