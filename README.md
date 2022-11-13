@@ -40,5 +40,5 @@ Gdy zycie spadnie nam ponizej 0 giniemy gdy exp wzrosnie nam ponad 1000 wygrywam
 <h1>csv2html.py</h1>
 <p>Program ma nam zamieniać plik CSV na Tabelkę w html</p>
 <p>Struktura programu:</p>
-![image](https://user-images.githubusercontent.com/37062888/201533503-f2578fec-612f-4735-9f85-5307fd9aa86d.png)
+![obraz](https://user-images.githubusercontent.com/37062888/201533503-f2578fec-612f-4735-9f85-5307fd9aa86d.png)
 
